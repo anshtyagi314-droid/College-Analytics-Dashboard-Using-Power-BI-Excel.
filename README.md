@@ -1,0 +1,2 @@
+# College-Analytics-Dashboard-Using-Power-BI-Excel.
+Aspiring data analyst skilled in Excel, Power BI, SQL, and Python. Passionate about data visualization and building interactive dashboards for real-world insights. Experienced in education analytics projects like student performance and placement trends. Continuously learning, I aim to grow in data-driven roles and deliver, insight-based solutions.
